@@ -4,7 +4,6 @@
 
   - role: cask_package
     packages:
-    - asepsis
     - google-chrome
     - firefox
     - caffeine
